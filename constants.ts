@@ -5,7 +5,7 @@ export const BURSA_CONTENT: ContentItem[] = [
     id: 1,
     title: "Paleolitik Çağ & Aktopraklık",
     description: "Bursa'da yaşamın izleri 8500 yıl öncesine uzanır. Aktopraklık Höyüğü, Avrupa'nın ilk çiftçilerine ev sahipliği yapmış, yerleşik hayata geçişin en net kanıtıdır.",
-    imageUrl: "https://www.arkeotekno.com/image/genel/big/gnl2017173635.jpg",
+    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCrfKnQydeMFbb5wtXbp44ZtmRArEBhRFpwA&s",
     category: Category.HISTORY,
     bgColor: "bg-stone-100",
     textColor: "text-stone-800",
